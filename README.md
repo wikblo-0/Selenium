@@ -1,3 +1,3 @@
-Selenium
+# Selenium
 
 Simple Selenium test.
